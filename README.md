@@ -33,8 +33,8 @@ Example run script used to generate the simulations in the manuscript.
 
 **results/**  
 
-Processed .csv files containing the source data used to generate the figures and tables in the manuscript.
-These files include final aggregated values (means and uncertainties where applicable) used directly for plotting and are sufficient to reproduce all figures without access to the full OSCAR model output.
+Processed .csv files containing the model output data used to generate the figures in the manuscript and supplement.
+These files include final aggregated values (means and uncertainties where applicable) used directly for plotting.
 
 Full raw OSCAR model outputs and intermediate Monte Carlo files are not included due to their volume and complexity.
 
